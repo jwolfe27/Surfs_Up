@@ -31,4 +31,4 @@ December:
 
 
 ## Summary
-As shown above 
+As shown above there is very little difference in terms of expected temperature between June and December.  Looking at precipitation data, there are only 3 times during the year (January, April and August) where precipation amounts are relatively high.  This tells me that Oahu is a great destination for a Surf Shop as temperature range and precipitation amounts are minimal.  I would recommend pulling data from multipe stations before investing in additional Surf Shop locations on other islands to see if the same trends hold true.
