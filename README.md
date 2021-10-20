@@ -29,6 +29,13 @@ December:
 ![Routes_Build](https://user-images.githubusercontent.com/89044350/138102068-7391c39d-3a64-4710-b2b6-bd1a12d508a6.PNG)
 ![Define_Min_Avg_Start_End](https://user-images.githubusercontent.com/89044350/138102267-3b566383-0f32-493e-beb7-a60aa3535a75.PNG)
 
+## Additional Analysis Performed
+To add two additional analyses to the project, I compared the amount of preciptation to the temperature for the months of June and December to see if there is a trend there.
+![June_Precip_Temp](https://user-images.githubusercontent.com/89044350/138109313-01385a45-68bf-4e40-a4b6-890cc08dedea.PNG)
+![June_Temp_Precip_Describe](https://user-images.githubusercontent.com/89044350/138110058-200698ed-ee87-426e-9fe8-67bdcb4bac29.PNG)
+
+![Dec_Precip_Temp](https://user-images.githubusercontent.com/89044350/138109380-049bab9b-0d74-4f47-802e-22b30d55276f.PNG)
+![Dec_Temp_Precip_Describe](https://user-images.githubusercontent.com/89044350/138110130-d089cebe-82e2-465c-b5e4-3697b8392547.PNG)
 
 ## Summary
-As shown above there is very little difference in terms of expected temperature between June and December.  Looking at precipitation data, there are only 3 times during the year (January, April and August) where precipation amounts are relatively high.  This tells me that Oahu is a great destination for a Surf Shop as temperature range and precipitation amounts are minimal.  I would recommend pulling data from multipe stations before investing in additional Surf Shop locations on other islands to see if the same trends hold true.
+As shown above there is very little difference in terms of expected temperature between June and December. The average temperature in June is around 75, while the average temp in December is around 71.  Looking at precipitation data, June averages approximately   This tells me that Oahu is a great destination for a year round Surf/Ice Cream Shop as temperature range and precipitation amounts are minimal.  I would recommend pulling data from multipe stations before investing in additional Surf Shop locations on other islands to see if the same trends hold true.
