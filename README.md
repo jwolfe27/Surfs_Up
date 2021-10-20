@@ -3,7 +3,7 @@
 ![Oahu_Picture](https://user-images.githubusercontent.com/89044350/138095687-3a18ee4e-d091-4fce-b353-10488b852414.jpg)
 
 ## Project Overview
-Analyze climate data of Oahu, Hawaii in order to make an informed decision if Oahu is the best location to open a Surf Shop.
+Analyze climate data of Oahu, Hawaii in order to make an informed decision if Oahu is the best location to open a year round Surf & Ice Cream Shop.
 
 ### Tools Used
 - Jupyter Notebook with imported dependencies
@@ -24,7 +24,7 @@ December:
 
 ![Dec_Temps](https://user-images.githubusercontent.com/89044350/138101348-f7aeec83-44d6-4bb4-9e1a-a4cc0f41d73d.PNG)
 
-3.  Inside VSCode, we were able to utilize Python and SQLAlchemy ORM queries to reflect tables in a new model.  We then built a Flask app using the developed queries
+### 3.  Inside VSCode, we were able to utilize Python and SQLAlchemy ORM queries to reflect tables in a new model.  We then built a Flask app using the developed queries
 
 ![Routes_Build](https://user-images.githubusercontent.com/89044350/138102068-7391c39d-3a64-4710-b2b6-bd1a12d508a6.PNG)
 ![Define_Min_Avg_Start_End](https://user-images.githubusercontent.com/89044350/138102267-3b566383-0f32-493e-beb7-a60aa3535a75.PNG)
@@ -38,4 +38,6 @@ To add two additional analyses to the project, I compared the amount of precipta
 ![Dec_Temp_Precip_Describe](https://user-images.githubusercontent.com/89044350/138110130-d089cebe-82e2-465c-b5e4-3697b8392547.PNG)
 
 ## Summary
-As shown above there is very little difference in terms of expected temperature between June and December. The average temperature in June is around 75, while the average temp in December is around 71.  Looking at precipitation data, June averages approximately   This tells me that Oahu is a great destination for a year round Surf/Ice Cream Shop as temperature range and precipitation amounts are minimal.  I would recommend pulling data from multipe stations before investing in additional Surf Shop locations on other islands to see if the same trends hold true.
+As shown above there is very little difference in terms of expected temperature between June and December. The average temperature in June is around 75, while the average temp in December is around 71.  Looking at precipitation data, June averages approximately .14 inches of rain, while December averages approximately .22" inches. There are a few outliers, but nothing concerning. The trend shows that as the temperature increases, the precipitation decreases.
+
+If the concern for opening a year round Surf & Ice Cream Shop is getting too much precipitation,  this analysis shows that Oahu is a great destination as temperature range and precipitation amounts are minimal.  I would recommend pulling data from multipe stations before investing in additional Surf Shop locations on other islands to see if the same trends hold true.
