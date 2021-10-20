@@ -31,6 +31,7 @@ December:
 
 ## Additional Analysis Performed
 To add two additional analyses to the project, I compared the amount of preciptation to the temperature for the months of June and December to see if there is a trend there.
+
 ![June_Precip_Temp](https://user-images.githubusercontent.com/89044350/138109313-01385a45-68bf-4e40-a4b6-890cc08dedea.PNG)
 ![June_Temp_Precip_Describe](https://user-images.githubusercontent.com/89044350/138110058-200698ed-ee87-426e-9fe8-67bdcb4bac29.PNG)
 
